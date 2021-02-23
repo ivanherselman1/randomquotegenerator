@@ -8,3 +8,4 @@ function newQuote(){
 }
 
 console.log(newQuote()) ; 
+//strange characters appearing in HTML 
